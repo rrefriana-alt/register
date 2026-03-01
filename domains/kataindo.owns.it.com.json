@@ -2,15 +2,12 @@
     "description": "Website Kamus Bahasa Indonesia",
     "domain": "is-not-a.dev",
     "subdomain": "kataindo",
-
     "owner": {
         "repo": "https://github.com/rrefriana-alt/kataindo-web",
         "email": "rrefriana@gmail.com"
     },
-
     "record": {
         "CNAME": "rrefriana-alt.github.io"
     },
-
     "proxied": false
 }
